@@ -13,6 +13,12 @@
 
 <br />
 
+### 🎧 Currently listenting to: 
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Kenmilll Listening" width="350" />](https://open.spotify.com/user/masonyou19?si=lNRzHGRcRHuficMZd3xylA)
+
+<br />
+
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
