@@ -14,7 +14,7 @@
 <br />
 
 ### 🎧 Currently listenting to: 
-[<img src="novatorem2-gules.vercel.app" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/masonyou19)
+[<img src="novatorem2-gules.vercel.app" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/masonyou19)
 
 
 <br />
