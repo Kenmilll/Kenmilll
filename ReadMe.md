@@ -14,8 +14,8 @@
 <br />
 
 ### 🎧 Currently listenting to: 
+[![Spotify](novatorem2-gules.vercel.app)](https://open.spotify.com/user/masonyou19?si=UbaaLg07S3q0jm4LXXsWlQ)
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Kenmilll Listening" width="350" />](https://open.spotify.com/user/masonyou19?si=lNRzHGRcRHuficMZd3xylA)
 
 <br />
 
