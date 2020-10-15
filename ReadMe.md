@@ -13,12 +13,6 @@
 
 <br />
 
-### 🎧 Currently listenting to: 
-[<img src="https://novatorem2-gules.vercel.app" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/masonyou19)
-
-
-<br />
-
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
