@@ -12,7 +12,6 @@
 - Olivessz#0091 is my discord tag. <
 
 <br />
-<br />
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
