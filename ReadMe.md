@@ -14,8 +14,7 @@
 <br />
 
 ### 🎧 Currently listenting to: 
-[![Spotify](novatorem2-gules.vercel.app)](https://open.spotify.com/user/masonyou19?si=UbaaLg07S3q0jm4LXXsWlQ)
-
+[![Spotify](https://novatorem2-gules.vercel.app/)](https://open.spotify.com/user/masonyou19?si=pnTP65guTWWI1XdXbQXhIQ)
 
 <br />
 
